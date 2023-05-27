@@ -1,0 +1,31 @@
+body{
+    background-color:#F1F6F9;
+
+}
+
+h1{
+    color: #146C94;
+}
+h2{
+    font-family: 'Times New Roman';
+    
+
+    
+}
+
+h3, p{
+    color: #394867;
+}
+
+a:hover{
+    color: red;
+
+}
+
+.Subtitle{
+    color: #212A3E;
+   
+}
+
+
+

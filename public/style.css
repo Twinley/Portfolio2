@@ -1,0 +1,23 @@
+
+
+form{
+
+width: 175px;
+height: 1000px;
+
+
+}
+
+.input-field{
+
+    height:30px;
+    font-size: medium;
+    border-radius: 10px; 
+    border-top: 0px ;
+    border-left: 0px ;
+    border-right: 0px;
+
+}
+
+
+
